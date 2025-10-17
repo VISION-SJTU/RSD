@@ -28,7 +28,7 @@ student's internal representations.
 1. Clone the repository to your local workspace:
 
     ```
-    git clone https://github.com/spacewanderx/RSD.git
+    git clone https://github.com/VISION-SJTU/RSD.git
     ```
 
 2. Configure the environment:
